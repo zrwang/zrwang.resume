@@ -16,5 +16,915 @@
   {}
 \endgroup
 
+
+\refsection{1}
+  \sortlist{entry}{chronological}
+    \entry{Proceedings:Wang2015}{inproceedings}{}
+      \name{labelname}{7}{}{%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=9c826062f026ddcb561818c9e2a87333}{Li}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=9c826062f026ddcb561818c9e2a87333}{Li}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e37f28897fcc34c56e33626f0e2a5fb9}
+      \strng{fullhash}{e37f28897fcc34c56e33626f0e2a5fb9}
+      \field{sortinit}{2}
+      \field{labeltitle}{Design and Control of a Novel Multi-state Compliant Safe Joint for Robotic Surgery}
+      \field{booktitle}{{IEEE} Int. Conf. Robotics and Automation}
+      \field{title}{Design and Control of a Novel Multi-state Compliant Safe Joint for Robotic Surgery}
+      \field{year}{2015}
+    \endentry
+    \entry{Journals:Wang2015-tmech}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{135c277e1eb19005f5076e51c14bfe65}
+      \strng{fullhash}{135c277e1eb19005f5076e51c14bfe65}
+      \field{sortinit}{2}
+      \field{labeltitle}{Design of a Novel Compliant Safe Joint with Multiple Working States for Robotic Surgery}
+      \field{journaltitle}{{IEEE/ASME} Trans. Mechatronics}
+      \field{title}{Design of a Novel Compliant Safe Joint with Multiple Working States for Robotic Surgery}
+      \field{year}{2015}
+    \endentry
+    \entry{Proceedings:Yip2015}{inproceedings}{}
+      \name{labelname}{5}{}{%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=00df9c44f9ac279bf917e81238a2bfe1}{LI}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=00df9c44f9ac279bf917e81238a2bfe1}{LI}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{43e9a0c25f8ad37bd903268aa3f553de}
+      \strng{fullhash}{43e9a0c25f8ad37bd903268aa3f553de}
+      \field{sortinit}{2}
+      \field{labeltitle}{A New Robotic Uterine Positioner for Laparoscopic Hysterectomy with Passive Safety Mechanisms: Design and Experiments}
+      \field{booktitle}{{IEEE/RSJ} Int. Conf. Intelligent Robots and Systems}
+      \field{title}{A New Robotic Uterine Positioner for Laparoscopic Hysterectomy with Passive Safety Mechanisms: Design and Experiments}
+      \field{year}{2015}
+    \endentry
+    \entry{Journals:Yip2015-tmech}{article}{}
+      \name{labelname}{7}{}{%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=883fb76ac7eb945a35ebf8d90412663d}{Cheung}{C\bibinitperiod}{T.\bibnamedelimi H.}{T\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=45d0b5a507486cba306521a9c3d1ff37}{Fu}{F\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=883fb76ac7eb945a35ebf8d90412663d}{Cheung}{C\bibinitperiod}{T.\bibnamedelimi H.}{T\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=45d0b5a507486cba306521a9c3d1ff37}{Fu}{F\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4cb89621d206af046457a6de0446d7b6}
+      \strng{fullhash}{4cb89621d206af046457a6de0446d7b6}
+      \field{sortinit}{2}
+      \field{labeltitle}{Development of an Assistive Surgical Robot for Laparoscopic Hysterectomy}
+      \field{journaltitle}{{IEEE/ASME} Trans. Mechatronics}
+      \field{title}{Development of an Assistive Surgical Robot for Laparoscopic Hysterectomy}
+      \field{year}{2015}
+    \endentry
+    \entry{Proceedings:Navarro-Alarcon2015}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=00df9c44f9ac279bf917e81238a2bfe1}{LI}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=00df9c44f9ac279bf917e81238a2bfe1}{LI}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8300ebcaaa71f2b6d91dfbfa12e1f8ac}
+      \strng{fullhash}{8300ebcaaa71f2b6d91dfbfa12e1f8ac}
+      \field{sortinit}{2}
+      \field{labeltitle}{Gradient Descent Adaptive Methods to Automatically Position 3-DOF RCM Mechanisms with a Monocular Camera}
+      \field{booktitle}{{IEEE/RSJ} Int. Conf. Intelligent Robots and Systems}
+      \field{title}{Gradient Descent Adaptive Methods to Automatically Position 3-DOF RCM Mechanisms with a Monocular Camera}
+      \field{year}{2015}
+    \endentry
+    \entry{Proceedings:Lin2015}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=00df9c44f9ac279bf917e81238a2bfe1}{LI}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=00df9c44f9ac279bf917e81238a2bfe1}{LI}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1dad2f4a5c9f82adb363480418bb5df2}
+      \strng{fullhash}{1dad2f4a5c9f82adb363480418bb5df2}
+      \field{sortinit}{2}
+      \field{labeltitle}{A New Robotic Uterine Positioner for Laparoscopic Hysterectomy with Passive Safety Mechanisms: Design and Experiments}
+      \field{booktitle}{{IEEE/RSJ} Int. Conf. Intelligent Robots and Systems}
+      \field{title}{A New Robotic Uterine Positioner for Laparoscopic Hysterectomy with Passive Safety Mechanisms: Design and Experiments}
+      \field{year}{2015}
+    \endentry
+    \entry{Journals:Navarro-Alarcon2015-tro}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a537b211ddf0c0a8b7a0974d389d871a}
+      \strng{fullhash}{a537b211ddf0c0a8b7a0974d389d871a}
+      \field{sortinit}{2}
+      \field{labeltitle}{Automatic 3D Manipulation of Soft Objects by RCM Robotic Instruments with Adaptive Deformation Model}
+      \field{journaltitle}{{IEEE} Trans. Robot.}
+      \field{title}{Automatic 3D Manipulation of Soft Objects by RCM Robotic Instruments with Adaptive Deformation Model}
+      \field{year}{2015}
+    \endentry
+    \entry{Proceedings:Navarro-Alarcon2014}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=29bdd03a757ee4168cad6d145c3f26ac}{Liu}{L\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=29bdd03a757ee4168cad6d145c3f26ac}{Liu}{L\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3bfbb1d6668820450ed232a5d4aedf84}
+      \strng{fullhash}{3bfbb1d6668820450ed232a5d4aedf84}
+      \field{sortinit}{2}
+      \field{labeltitle}{A Method to Regulate the Torque of Flexible-joint Manipulators with Velocity Control Inputs}
+      \field{booktitle}{{IEEE} Int. Conf. Robotics and Biomimetics}
+      \field{title}{A Method to Regulate the Torque of Flexible-joint Manipulators with Velocity Control Inputs}
+      \field{year}{2014}
+      \field{pages}{2437\bibrangedash 2442}
+      \warn{\item Name in key 'Proceedings:Navarro-Alarcon2014' is empty (probably consecutive 'and'): skipping name}
+    \endentry
+    \entry{Proceedings:Yip2014}{inproceedings}{}
+      \name{labelname}{5}{}{%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{03999a97fbac5db961e0ce03d966dad9}
+      \strng{fullhash}{03999a97fbac5db961e0ce03d966dad9}
+      \field{sortinit}{2}
+      \field{labeltitle}{A new circular-guided remote center of motion mechanism for assistive surgical robots}
+      \field{booktitle}{{IEEE} Int. Conf. Robotics and Biomimetics}
+      \field{title}{A new circular-guided remote center of motion mechanism for assistive surgical robots}
+      \field{year}{2014}
+      \field{pages}{217\bibrangedash 222}
+    \endentry
+  \endsortlist
+  \sortlist{entry}{ydnt}
+    \entry{Proceedings:Lin2015}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=00df9c44f9ac279bf917e81238a2bfe1}{LI}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=00df9c44f9ac279bf917e81238a2bfe1}{LI}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1dad2f4a5c9f82adb363480418bb5df2}
+      \strng{fullhash}{1dad2f4a5c9f82adb363480418bb5df2}
+      \field{sortinit}{2}
+      \field{labeltitle}{A New Robotic Uterine Positioner for Laparoscopic Hysterectomy with Passive Safety Mechanisms: Design and Experiments}
+      \field{booktitle}{{IEEE/RSJ} Int. Conf. Intelligent Robots and Systems}
+      \field{title}{A New Robotic Uterine Positioner for Laparoscopic Hysterectomy with Passive Safety Mechanisms: Design and Experiments}
+      \field{year}{2015}
+    \endentry
+    \entry{Journals:Navarro-Alarcon2015-tro}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a537b211ddf0c0a8b7a0974d389d871a}
+      \strng{fullhash}{a537b211ddf0c0a8b7a0974d389d871a}
+      \field{sortinit}{2}
+      \field{labeltitle}{Automatic 3D Manipulation of Soft Objects by RCM Robotic Instruments with Adaptive Deformation Model}
+      \field{journaltitle}{{IEEE} Trans. Robot.}
+      \field{title}{Automatic 3D Manipulation of Soft Objects by RCM Robotic Instruments with Adaptive Deformation Model}
+      \field{year}{2015}
+    \endentry
+    \entry{Proceedings:Navarro-Alarcon2015}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=00df9c44f9ac279bf917e81238a2bfe1}{LI}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=00df9c44f9ac279bf917e81238a2bfe1}{LI}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8300ebcaaa71f2b6d91dfbfa12e1f8ac}
+      \strng{fullhash}{8300ebcaaa71f2b6d91dfbfa12e1f8ac}
+      \field{sortinit}{2}
+      \field{labeltitle}{Gradient Descent Adaptive Methods to Automatically Position 3-DOF RCM Mechanisms with a Monocular Camera}
+      \field{booktitle}{{IEEE/RSJ} Int. Conf. Intelligent Robots and Systems}
+      \field{title}{Gradient Descent Adaptive Methods to Automatically Position 3-DOF RCM Mechanisms with a Monocular Camera}
+      \field{year}{2015}
+    \endentry
+    \entry{Proceedings:Wang2015}{inproceedings}{}
+      \name{labelname}{7}{}{%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=9c826062f026ddcb561818c9e2a87333}{Li}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=9c826062f026ddcb561818c9e2a87333}{Li}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e37f28897fcc34c56e33626f0e2a5fb9}
+      \strng{fullhash}{e37f28897fcc34c56e33626f0e2a5fb9}
+      \field{sortinit}{2}
+      \field{labeltitle}{Design and Control of a Novel Multi-state Compliant Safe Joint for Robotic Surgery}
+      \field{booktitle}{{IEEE} Int. Conf. Robotics and Automation}
+      \field{title}{Design and Control of a Novel Multi-state Compliant Safe Joint for Robotic Surgery}
+      \field{year}{2015}
+    \endentry
+    \entry{Journals:Wang2015-tmech}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{135c277e1eb19005f5076e51c14bfe65}
+      \strng{fullhash}{135c277e1eb19005f5076e51c14bfe65}
+      \field{sortinit}{2}
+      \field{labeltitle}{Design of a Novel Compliant Safe Joint with Multiple Working States for Robotic Surgery}
+      \field{journaltitle}{{IEEE/ASME} Trans. Mechatronics}
+      \field{title}{Design of a Novel Compliant Safe Joint with Multiple Working States for Robotic Surgery}
+      \field{year}{2015}
+    \endentry
+    \entry{Proceedings:Yip2015}{inproceedings}{}
+      \name{labelname}{5}{}{%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=00df9c44f9ac279bf917e81238a2bfe1}{LI}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=00df9c44f9ac279bf917e81238a2bfe1}{LI}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{43e9a0c25f8ad37bd903268aa3f553de}
+      \strng{fullhash}{43e9a0c25f8ad37bd903268aa3f553de}
+      \field{sortinit}{2}
+      \field{labeltitle}{A New Robotic Uterine Positioner for Laparoscopic Hysterectomy with Passive Safety Mechanisms: Design and Experiments}
+      \field{booktitle}{{IEEE/RSJ} Int. Conf. Intelligent Robots and Systems}
+      \field{title}{A New Robotic Uterine Positioner for Laparoscopic Hysterectomy with Passive Safety Mechanisms: Design and Experiments}
+      \field{year}{2015}
+    \endentry
+    \entry{Journals:Yip2015-tmech}{article}{}
+      \name{labelname}{7}{}{%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=883fb76ac7eb945a35ebf8d90412663d}{Cheung}{C\bibinitperiod}{T.\bibnamedelimi H.}{T\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=45d0b5a507486cba306521a9c3d1ff37}{Fu}{F\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=883fb76ac7eb945a35ebf8d90412663d}{Cheung}{C\bibinitperiod}{T.\bibnamedelimi H.}{T\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=45d0b5a507486cba306521a9c3d1ff37}{Fu}{F\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4cb89621d206af046457a6de0446d7b6}
+      \strng{fullhash}{4cb89621d206af046457a6de0446d7b6}
+      \field{sortinit}{2}
+      \field{labeltitle}{Development of an Assistive Surgical Robot for Laparoscopic Hysterectomy}
+      \field{journaltitle}{{IEEE/ASME} Trans. Mechatronics}
+      \field{title}{Development of an Assistive Surgical Robot for Laparoscopic Hysterectomy}
+      \field{year}{2015}
+    \endentry
+    \entry{Proceedings:Navarro-Alarcon2014}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=29bdd03a757ee4168cad6d145c3f26ac}{Liu}{L\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=29bdd03a757ee4168cad6d145c3f26ac}{Liu}{L\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3bfbb1d6668820450ed232a5d4aedf84}
+      \strng{fullhash}{3bfbb1d6668820450ed232a5d4aedf84}
+      \field{sortinit}{2}
+      \field{labeltitle}{A Method to Regulate the Torque of Flexible-joint Manipulators with Velocity Control Inputs}
+      \field{booktitle}{{IEEE} Int. Conf. Robotics and Biomimetics}
+      \field{title}{A Method to Regulate the Torque of Flexible-joint Manipulators with Velocity Control Inputs}
+      \field{year}{2014}
+      \field{pages}{2437\bibrangedash 2442}
+      \warn{\item Name in key 'Proceedings:Navarro-Alarcon2014' is empty (probably consecutive 'and'): skipping name}
+    \endentry
+    \entry{Proceedings:Yip2014}{inproceedings}{}
+      \name{labelname}{5}{}{%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{03999a97fbac5db961e0ce03d966dad9}
+      \strng{fullhash}{03999a97fbac5db961e0ce03d966dad9}
+      \field{sortinit}{2}
+      \field{labeltitle}{A new circular-guided remote center of motion mechanism for assistive surgical robots}
+      \field{booktitle}{{IEEE} Int. Conf. Robotics and Biomimetics}
+      \field{title}{A new circular-guided remote center of motion mechanism for assistive surgical robots}
+      \field{year}{2014}
+      \field{pages}{217\bibrangedash 222}
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{2}
+  \sortlist{entry}{chronological}
+    \entry{Proceedings:Wang2015}{inproceedings}{}
+      \name{labelname}{7}{}{%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=9c826062f026ddcb561818c9e2a87333}{Li}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=9c826062f026ddcb561818c9e2a87333}{Li}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e37f28897fcc34c56e33626f0e2a5fb9}
+      \strng{fullhash}{e37f28897fcc34c56e33626f0e2a5fb9}
+      \field{sortinit}{2}
+      \field{labeltitle}{Design and Control of a Novel Multi-state Compliant Safe Joint for Robotic Surgery}
+      \field{booktitle}{{IEEE} Int. Conf. Robotics and Automation}
+      \field{title}{Design and Control of a Novel Multi-state Compliant Safe Joint for Robotic Surgery}
+      \field{year}{2015}
+    \endentry
+    \entry{Journals:Wang2015-tmech}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{135c277e1eb19005f5076e51c14bfe65}
+      \strng{fullhash}{135c277e1eb19005f5076e51c14bfe65}
+      \field{sortinit}{2}
+      \field{labeltitle}{Design of a Novel Compliant Safe Joint with Multiple Working States for Robotic Surgery}
+      \field{journaltitle}{{IEEE/ASME} Trans. Mechatronics}
+      \field{title}{Design of a Novel Compliant Safe Joint with Multiple Working States for Robotic Surgery}
+      \field{year}{2015}
+    \endentry
+    \entry{Proceedings:Yip2015}{inproceedings}{}
+      \name{labelname}{5}{}{%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=00df9c44f9ac279bf917e81238a2bfe1}{LI}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=00df9c44f9ac279bf917e81238a2bfe1}{LI}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{43e9a0c25f8ad37bd903268aa3f553de}
+      \strng{fullhash}{43e9a0c25f8ad37bd903268aa3f553de}
+      \field{sortinit}{2}
+      \field{labeltitle}{A New Robotic Uterine Positioner for Laparoscopic Hysterectomy with Passive Safety Mechanisms: Design and Experiments}
+      \field{booktitle}{{IEEE/RSJ} Int. Conf. Intelligent Robots and Systems}
+      \field{title}{A New Robotic Uterine Positioner for Laparoscopic Hysterectomy with Passive Safety Mechanisms: Design and Experiments}
+      \field{year}{2015}
+    \endentry
+    \entry{Journals:Yip2015-tmech}{article}{}
+      \name{labelname}{7}{}{%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=883fb76ac7eb945a35ebf8d90412663d}{Cheung}{C\bibinitperiod}{T.\bibnamedelimi H.}{T\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=45d0b5a507486cba306521a9c3d1ff37}{Fu}{F\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=883fb76ac7eb945a35ebf8d90412663d}{Cheung}{C\bibinitperiod}{T.\bibnamedelimi H.}{T\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=45d0b5a507486cba306521a9c3d1ff37}{Fu}{F\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4cb89621d206af046457a6de0446d7b6}
+      \strng{fullhash}{4cb89621d206af046457a6de0446d7b6}
+      \field{sortinit}{2}
+      \field{labeltitle}{Development of an Assistive Surgical Robot for Laparoscopic Hysterectomy}
+      \field{journaltitle}{{IEEE/ASME} Trans. Mechatronics}
+      \field{title}{Development of an Assistive Surgical Robot for Laparoscopic Hysterectomy}
+      \field{year}{2015}
+    \endentry
+    \entry{Proceedings:Navarro-Alarcon2015}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=00df9c44f9ac279bf917e81238a2bfe1}{LI}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=00df9c44f9ac279bf917e81238a2bfe1}{LI}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8300ebcaaa71f2b6d91dfbfa12e1f8ac}
+      \strng{fullhash}{8300ebcaaa71f2b6d91dfbfa12e1f8ac}
+      \field{sortinit}{2}
+      \field{labeltitle}{Gradient Descent Adaptive Methods to Automatically Position 3-DOF RCM Mechanisms with a Monocular Camera}
+      \field{booktitle}{{IEEE/RSJ} Int. Conf. Intelligent Robots and Systems}
+      \field{title}{Gradient Descent Adaptive Methods to Automatically Position 3-DOF RCM Mechanisms with a Monocular Camera}
+      \field{year}{2015}
+    \endentry
+    \entry{Proceedings:Lin2015}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=00df9c44f9ac279bf917e81238a2bfe1}{LI}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=00df9c44f9ac279bf917e81238a2bfe1}{LI}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1dad2f4a5c9f82adb363480418bb5df2}
+      \strng{fullhash}{1dad2f4a5c9f82adb363480418bb5df2}
+      \field{sortinit}{2}
+      \field{labeltitle}{A New Robotic Uterine Positioner for Laparoscopic Hysterectomy with Passive Safety Mechanisms: Design and Experiments}
+      \field{booktitle}{{IEEE/RSJ} Int. Conf. Intelligent Robots and Systems}
+      \field{title}{A New Robotic Uterine Positioner for Laparoscopic Hysterectomy with Passive Safety Mechanisms: Design and Experiments}
+      \field{year}{2015}
+    \endentry
+    \entry{Journals:Navarro-Alarcon2015-tro}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a537b211ddf0c0a8b7a0974d389d871a}
+      \strng{fullhash}{a537b211ddf0c0a8b7a0974d389d871a}
+      \field{sortinit}{2}
+      \field{labeltitle}{Automatic 3D Manipulation of Soft Objects by RCM Robotic Instruments with Adaptive Deformation Model}
+      \field{journaltitle}{{IEEE} Trans. Robot.}
+      \field{title}{Automatic 3D Manipulation of Soft Objects by RCM Robotic Instruments with Adaptive Deformation Model}
+      \field{year}{2015}
+    \endentry
+    \entry{Proceedings:Navarro-Alarcon2014}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=29bdd03a757ee4168cad6d145c3f26ac}{Liu}{L\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=29bdd03a757ee4168cad6d145c3f26ac}{Liu}{L\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3bfbb1d6668820450ed232a5d4aedf84}
+      \strng{fullhash}{3bfbb1d6668820450ed232a5d4aedf84}
+      \field{sortinit}{2}
+      \field{labeltitle}{A Method to Regulate the Torque of Flexible-joint Manipulators with Velocity Control Inputs}
+      \field{booktitle}{{IEEE} Int. Conf. Robotics and Biomimetics}
+      \field{title}{A Method to Regulate the Torque of Flexible-joint Manipulators with Velocity Control Inputs}
+      \field{year}{2014}
+      \field{pages}{2437\bibrangedash 2442}
+      \warn{\item Name in key 'Proceedings:Navarro-Alarcon2014' is empty (probably consecutive 'and'): skipping name}
+    \endentry
+    \entry{Proceedings:Yip2014}{inproceedings}{}
+      \name{labelname}{5}{}{%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{03999a97fbac5db961e0ce03d966dad9}
+      \strng{fullhash}{03999a97fbac5db961e0ce03d966dad9}
+      \field{sortinit}{2}
+      \field{labeltitle}{A new circular-guided remote center of motion mechanism for assistive surgical robots}
+      \field{booktitle}{{IEEE} Int. Conf. Robotics and Biomimetics}
+      \field{title}{A new circular-guided remote center of motion mechanism for assistive surgical robots}
+      \field{year}{2014}
+      \field{pages}{217\bibrangedash 222}
+    \endentry
+  \endsortlist
+  \sortlist{entry}{ydnt}
+    \entry{Proceedings:Lin2015}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=00df9c44f9ac279bf917e81238a2bfe1}{LI}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=00df9c44f9ac279bf917e81238a2bfe1}{LI}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1dad2f4a5c9f82adb363480418bb5df2}
+      \strng{fullhash}{1dad2f4a5c9f82adb363480418bb5df2}
+      \field{sortinit}{2}
+      \field{labeltitle}{A New Robotic Uterine Positioner for Laparoscopic Hysterectomy with Passive Safety Mechanisms: Design and Experiments}
+      \field{booktitle}{{IEEE/RSJ} Int. Conf. Intelligent Robots and Systems}
+      \field{title}{A New Robotic Uterine Positioner for Laparoscopic Hysterectomy with Passive Safety Mechanisms: Design and Experiments}
+      \field{year}{2015}
+    \endentry
+    \entry{Journals:Navarro-Alarcon2015-tro}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a537b211ddf0c0a8b7a0974d389d871a}
+      \strng{fullhash}{a537b211ddf0c0a8b7a0974d389d871a}
+      \field{sortinit}{2}
+      \field{labeltitle}{Automatic 3D Manipulation of Soft Objects by RCM Robotic Instruments with Adaptive Deformation Model}
+      \field{journaltitle}{{IEEE} Trans. Robot.}
+      \field{title}{Automatic 3D Manipulation of Soft Objects by RCM Robotic Instruments with Adaptive Deformation Model}
+      \field{year}{2015}
+    \endentry
+    \entry{Proceedings:Navarro-Alarcon2015}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=00df9c44f9ac279bf917e81238a2bfe1}{LI}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=00df9c44f9ac279bf917e81238a2bfe1}{LI}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8300ebcaaa71f2b6d91dfbfa12e1f8ac}
+      \strng{fullhash}{8300ebcaaa71f2b6d91dfbfa12e1f8ac}
+      \field{sortinit}{2}
+      \field{labeltitle}{Gradient Descent Adaptive Methods to Automatically Position 3-DOF RCM Mechanisms with a Monocular Camera}
+      \field{booktitle}{{IEEE/RSJ} Int. Conf. Intelligent Robots and Systems}
+      \field{title}{Gradient Descent Adaptive Methods to Automatically Position 3-DOF RCM Mechanisms with a Monocular Camera}
+      \field{year}{2015}
+    \endentry
+    \entry{Proceedings:Wang2015}{inproceedings}{}
+      \name{labelname}{7}{}{%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=9c826062f026ddcb561818c9e2a87333}{Li}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=9c826062f026ddcb561818c9e2a87333}{Li}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e37f28897fcc34c56e33626f0e2a5fb9}
+      \strng{fullhash}{e37f28897fcc34c56e33626f0e2a5fb9}
+      \field{sortinit}{2}
+      \field{labeltitle}{Design and Control of a Novel Multi-state Compliant Safe Joint for Robotic Surgery}
+      \field{booktitle}{{IEEE} Int. Conf. Robotics and Automation}
+      \field{title}{Design and Control of a Novel Multi-state Compliant Safe Joint for Robotic Surgery}
+      \field{year}{2015}
+    \endentry
+    \entry{Journals:Wang2015-tmech}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{135c277e1eb19005f5076e51c14bfe65}
+      \strng{fullhash}{135c277e1eb19005f5076e51c14bfe65}
+      \field{sortinit}{2}
+      \field{labeltitle}{Design of a Novel Compliant Safe Joint with Multiple Working States for Robotic Surgery}
+      \field{journaltitle}{{IEEE/ASME} Trans. Mechatronics}
+      \field{title}{Design of a Novel Compliant Safe Joint with Multiple Working States for Robotic Surgery}
+      \field{year}{2015}
+    \endentry
+    \entry{Proceedings:Yip2015}{inproceedings}{}
+      \name{labelname}{5}{}{%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=00df9c44f9ac279bf917e81238a2bfe1}{LI}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=00df9c44f9ac279bf917e81238a2bfe1}{LI}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{43e9a0c25f8ad37bd903268aa3f553de}
+      \strng{fullhash}{43e9a0c25f8ad37bd903268aa3f553de}
+      \field{sortinit}{2}
+      \field{labeltitle}{A New Robotic Uterine Positioner for Laparoscopic Hysterectomy with Passive Safety Mechanisms: Design and Experiments}
+      \field{booktitle}{{IEEE/RSJ} Int. Conf. Intelligent Robots and Systems}
+      \field{title}{A New Robotic Uterine Positioner for Laparoscopic Hysterectomy with Passive Safety Mechanisms: Design and Experiments}
+      \field{year}{2015}
+    \endentry
+    \entry{Journals:Yip2015-tmech}{article}{}
+      \name{labelname}{7}{}{%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=883fb76ac7eb945a35ebf8d90412663d}{Cheung}{C\bibinitperiod}{T.\bibnamedelimi H.}{T\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=45d0b5a507486cba306521a9c3d1ff37}{Fu}{F\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=883fb76ac7eb945a35ebf8d90412663d}{Cheung}{C\bibinitperiod}{T.\bibnamedelimi H.}{T\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=45d0b5a507486cba306521a9c3d1ff37}{Fu}{F\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4cb89621d206af046457a6de0446d7b6}
+      \strng{fullhash}{4cb89621d206af046457a6de0446d7b6}
+      \field{sortinit}{2}
+      \field{labeltitle}{Development of an Assistive Surgical Robot for Laparoscopic Hysterectomy}
+      \field{journaltitle}{{IEEE/ASME} Trans. Mechatronics}
+      \field{title}{Development of an Assistive Surgical Robot for Laparoscopic Hysterectomy}
+      \field{year}{2015}
+    \endentry
+    \entry{Proceedings:Navarro-Alarcon2014}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=29bdd03a757ee4168cad6d145c3f26ac}{Liu}{L\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=29bdd03a757ee4168cad6d145c3f26ac}{Liu}{L\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=cb04db67d6b1a8efd95c20b4fdcdda3c}{Lin}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3bfbb1d6668820450ed232a5d4aedf84}
+      \strng{fullhash}{3bfbb1d6668820450ed232a5d4aedf84}
+      \field{sortinit}{2}
+      \field{labeltitle}{A Method to Regulate the Torque of Flexible-joint Manipulators with Velocity Control Inputs}
+      \field{booktitle}{{IEEE} Int. Conf. Robotics and Biomimetics}
+      \field{title}{A Method to Regulate the Torque of Flexible-joint Manipulators with Velocity Control Inputs}
+      \field{year}{2014}
+      \field{pages}{2437\bibrangedash 2442}
+      \warn{\item Name in key 'Proceedings:Navarro-Alarcon2014' is empty (probably consecutive 'and'): skipping name}
+    \endentry
+    \entry{Proceedings:Yip2014}{inproceedings}{}
+      \name{labelname}{5}{}{%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=1236c525b7d5393a07223c342d0c365d}{Yip}{Y\bibinitperiod}{H.\bibnamedelimi M.}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=49fc546520d1d066d1c595a1147a3819}{Li}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=25fb4f427211883e5b8249a8808d72cb}{Navarro-Alarcon}{N\bibinithyphendelim A\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=92581400fc578eb34e4be9ef6e4afc33}{Wang}{W\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{hash=6ea3afa0e1eca5a878390d04b880eede}{Liu}{L\bibinitperiod}{Y.-H.}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{03999a97fbac5db961e0ce03d966dad9}
+      \strng{fullhash}{03999a97fbac5db961e0ce03d966dad9}
+      \field{sortinit}{2}
+      \field{labeltitle}{A new circular-guided remote center of motion mechanism for assistive surgical robots}
+      \field{booktitle}{{IEEE} Int. Conf. Robotics and Biomimetics}
+      \field{title}{A new circular-guided remote center of motion mechanism for assistive surgical robots}
+      \field{year}{2014}
+      \field{pages}{217\bibrangedash 222}
+    \endentry
+  \endsortlist
+\endrefsection
 \endinput
 

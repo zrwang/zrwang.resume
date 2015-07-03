@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.5.25)  3 JUL 2015 16:42
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.5.25)  4 JUL 2015 01:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1119,32 +1119,32 @@ File: english.lbx 2013/11/25 v2.8a biblatex localization (PK/JW/AB)
 (./cv.aux)
 \openout1 = `cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 5.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 5.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 6.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 6.
  (/usr/local/texlive/2014/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
 
 ABD: EveryShipout initializing macros
 Package biblatex Info: XeTeX detected.
@@ -1155,9 +1155,34 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'cv.bbl' found.
- (./cv.bbl)
-Package biblatex Info: Reference section=0 on input line 5.
-Package biblatex Info: Reference segment=0 on input line 5.
+ (./cv.bbl
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'Proceedings:Navarro-Alarcon2014':
+(biblatex)                - Name in key 'Proceedings:Navarro-Alarcon2014' is em
+pty (probably consecutive 'and'): skipping name.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'Proceedings:Navarro-Alarcon2014':
+(biblatex)                - Name in key 'Proceedings:Navarro-Alarcon2014' is em
+pty (probably consecutive 'and'): skipping name.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'Proceedings:Navarro-Alarcon2014':
+(biblatex)                - Name in key 'Proceedings:Navarro-Alarcon2014' is em
+pty (probably consecutive 'and'): skipping name.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'Proceedings:Navarro-Alarcon2014':
+(biblatex)                - Name in key 'Proceedings:Navarro-Alarcon2014' is em
+pty (probably consecutive 'and'): skipping name.
+
+)
+Package biblatex Info: Reference section=0 on input line 6.
+Package biblatex Info: Reference segment=0 on input line 6.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1194,7 +1219,7 @@ Package biblatex Info: Reference segment=0 on input line 5.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box55
-Package hyperref Info: Link coloring OFF on input line 5.
+Package hyperref Info: Link coloring OFF on input line 6.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -1203,32 +1228,32 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count359
 )
-LaTeX Info: Redefining \ref on input line 5.
-LaTeX Info: Redefining \pageref on input line 5.
-LaTeX Info: Redefining \nameref on input line 5.
+LaTeX Info: Redefining \ref on input line 6.
+LaTeX Info: Redefining \pageref on input line 6.
+LaTeX Info: Redefining \nameref on input line 6.
 
 (./cv.out) (./cv.out)
 \@outlinefile=\write5
 \openout5 = `cv.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 30.
+(Font)              <7> on input line 31.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 30.
+(Font)              <5> on input line 31.
 Missing character: There is no ♥ in font [texgyreheros-regular.otf]/ICU:script=
 latn;language=DFLT;mapping=tex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--64
+Underfull \hbox (badness 10000) in paragraph at lines 36--65
 
  []
 
 
 LaTeX Font Warning: Font shape `EU1/texgyreheros-bold.otf(0)/m/it' undefined
 (Font)              using `EU1/texgyreheros-bold.otf(0)/m/n' instead on input l
-ine 108.
+ine 109.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--125
+Underfull \hbox (badness 10000) in paragraph at lines 68--126
 
  []
 
@@ -1238,12 +1263,23 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 )
 [1
 
-] [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 141.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 141.
+]
+\blx@maxsegment@1=\count360
+\blx@sectionciteorder@1=\count361
+Package biblatex Info: Reference section=1 on input line 129.
+Package biblatex Info: Setting label 'refsection:1' on input line 129.
+Package biblatex Info: Reference section=0 on input line 129.
+\blx@maxsegment@2=\count362
+\blx@sectionciteorder@2=\count363
+Package biblatex Info: Reference section=2 on input line 130.
+Package biblatex Info: Setting label 'refsection:2' on input line 130.
+Package biblatex Info: Reference section=0 on input line 133.
+ [2]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 135.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 135.
  (./cv.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 141.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 141.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 135.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 135.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1253,12 +1289,12 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39747 strings out of 493734
- 746231 string characters out of 6146348
- 1120500 words of memory out of 5000000
- 42648 multiletter control sequences out of 15000+600000
- 4240 words of font info for 45 fonts, out of 8000000 for 9000
+ 40070 strings out of 493734
+ 757299 string characters out of 6146348
+ 1120599 words of memory out of 5000000
+ 42962 multiletter control sequences out of 15000+600000
+ 4312 words of font info for 54 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 73i,9n,61p,10465b,660s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,9n,62p,10453b,951s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on cv.pdf (2 pages).

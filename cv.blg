@@ -1,9 +1,38 @@
 [0] Config.pm:318> INFO - This is Biber 1.8
 [0] Config.pm:321> INFO - Logfile is 'cv.blg'
-[83] biber-darwin:275> INFO - === Fri Jul  3, 2015, 16:42:08
-[83] Biber.pm:333> INFO - Reading 'cv.bcf'
-[156] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
-[157] Utils.pm:169> WARN - The file 'cv.bcf' does not contain any citations!
-[179] bbl.pm:482> INFO - Writing 'cv.bbl' with encoding 'UTF-8'
-[179] bbl.pm:555> INFO - Output to cv.bbl
-[180] Biber.pm:105> INFO - WARNINGS: 1
+[95] biber-darwin:275> INFO - === Sat Jul  4, 2015, 01:32:52
+[95] Biber.pm:333> INFO - Reading 'cv.bcf'
+[166] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[166] Biber.pm:607> INFO - Using all citekeys in bib section 1
+[166] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[167] Biber.pm:607> INFO - Using all citekeys in bib section 2
+[167] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[201] Biber.pm:3053> INFO - Processing section 1
+[228] Biber.pm:3190> INFO - Looking for bibtex format file 'bibliography.bib' for section 1
+[229] bibtex.pm:937> INFO - Decoding LaTeX character macros into UTF-8
+[230] bibtex.pm:812> INFO - Found BibTeX data source 'bibliography.bib'
+[247] Utils.pm:169> WARN - Name in key 'Proceedings:Navarro-Alarcon2014' is empty (probably consecutive 'and'): skipping name
+[248] Utils.pm:169> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[248] Utils.pm:169> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[248] Utils.pm:169> WARN - BibTeX subsystem: substring 6, warning: empty substring
+[295] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[295] Biber.pm:2945> INFO - Sorting 'entry' list 'chronological' keys
+[295] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[326] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[326] Biber.pm:2945> INFO - Sorting 'entry' list 'ydnt' keys
+[327] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[358] Biber.pm:3053> INFO - Processing section 2
+[359] Biber.pm:3190> INFO - Looking for bibtex format file 'bibliography.bib' for section 2
+[375] Utils.pm:169> WARN - Name in key 'Proceedings:Navarro-Alarcon2014' is empty (probably consecutive 'and'): skipping name
+[376] Utils.pm:169> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[376] Utils.pm:169> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[376] Utils.pm:169> WARN - BibTeX subsystem: substring 6, warning: empty substring
+[400] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[400] Biber.pm:2945> INFO - Sorting 'entry' list 'chronological' keys
+[400] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[431] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[431] Biber.pm:2945> INFO - Sorting 'entry' list 'ydnt' keys
+[431] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[461] bbl.pm:482> INFO - Writing 'cv.bbl' with encoding 'UTF-8'
+[469] bbl.pm:555> INFO - Output to cv.bbl
+[470] Biber.pm:105> INFO - WARNINGS: 8
