@@ -1,0 +1,140 @@
+%!TEX TS-program = xelatex
+\documentclass[]{friggeri-cv}
+\addbibresource{bibliography.bib}
+
+\begin{document}
+\header{Zerui}{WANG}
+       {a Ph.D. candidate who is obsessed by robotics}
+
+
+% In the aside, each new line forces a line break
+\begin{aside}
+  \section{about}
+    Room 112
+    ERB
+    CUHK
+    Shatin, N.T.
+    Hong Kong
+    ~
+    \href{mailto:zerui.j.wang@gmail.com}{zerui.j.wang@gmail.com}
+    \href{http://www.wangzerui.com}{www.wangzerui.com}
+    \href{https://github.com/zrwang}{gh://zrwang}
+    \href{https://www.linkedin.com/in/zrwang}{ln://zrwang}
+    \href{https://www.facebook.com/zrwang.cuhk}{fb://zrwang}
+    \href{https://plus.google.com/u/0/115306810481973645007/posts}{g+://zrwang}
+    \href{https://twitter.com/wangzerui}{tw://zrwang}
+  \section{languages}
+    Chinese
+    English
+  \section{programming}
+    {\color{red} $\varheartsuit$} C++/C
+    Python
+\end{aside}
+
+\section{education}
+\begin{entrylist}
+  \entry
+    {since 2013}
+    {Ph.D. candidate {\normalfont in Mechanical \& Automation Engineering}}
+    {CUHK}
+    {Cumulative GPA: \emph{3.917/4} \\
+     Research interests: \\
+     Safety mechanism design in robotic surgery \\
+     Visual servoing in surgical robot}
+  \entry
+    {2009–2013}
+    {BEng. {\normalfont in Quality and Reliability Engineering}}
+    {Beihang University}
+    {Overall GPA: \emph{3.84/4 (90.04/100)} \\
+     Rank \textbf{1st} in School of Reliability \& System Engineering}
+  \entry
+    {2012}
+    {Exchange {\normalfont in Europe}}
+    {TU Delft, VUB, U-PSUD, ECP, ISAE}
+    {Most selective elite delegation among students (top 0.75\%)}
+  \entry
+    {2006–2009}
+    {Senior high school student}
+    {No. 1 Middle School of Urumqi}
+    {Top 0.18\%  in the National College Entrance Examination \\
+    The 1st Prize in National Olympiad in Informatics \\
+    The 2nd Prize in Chinese Physics Olympiad \\
+    Nominated as Excellent Student for \textbf{three} consecutive years}
+\end{entrylist}
+
+\section{Honors \& Awards}
+
+\begin{entrylist}
+  \entry
+    {Aug. 2013}
+    {Awardee of Hong Kong PhD Fellowship}
+    {}
+    {}
+  \entry
+    {Nov. 2012}
+    {Champion of Innovative Underwater Robot Design \\
+    China Robot Contest \& RoboCup Open}
+    {}
+    {}
+  \entry
+    {Jul. 2012}
+    {The 2nd-Prize in National University Mechanical Innovation Competition}
+    {}
+    {(10\%)}
+  \entry
+    {Dec. 2010}
+    {The 2nd-Prize in National Undergraduate Physics Competition}
+    {}
+    {(7.5\%)}
+  \entry
+    {Nov. 2010}
+    {National Scholarship for University Students}
+    {}
+    {(2.6\%)}
+  \entry
+    {Nov. 2011}
+    {Excellent Students Awards of Beijing}
+    {}
+    {(1.1\%)}
+  \entry
+    {Nov. 2011}
+    {Elite Student of Beihang University}
+    {}
+    {(3\%)}
+  \entry
+    {Mar. 2012}
+    {Outstanding Student Award, \textit{Yang Weimin} Special Scholarship}
+    {}
+    {(0.8\%)}
+  \entry
+    {Dec. 2011}
+    {The 2nd-Prize Scholarship of Academic Contest}
+    {}
+    {(3\%)}
+  \entry
+    {2010-2012}
+    {The 1st-Prize Scholarship of Science and Engineering Contest}
+    {}
+    {(7\%)}
+  \entry
+    {2010-2012}
+    {The 1st-Prize Scholarship of Academic Performance}
+    {}
+    {(3\%)}
+\end{entrylist}
+
+\section{publications}
+
+\printbibsection{article}{article in peer-reviewed journal}
+\begin{refsection}
+ \nocite{*}
+ \printbibliography[sorting=chronological, type=inproceedings, title={international peer-reviewed conferences/proceedings}, notkeyword={france}, heading=subbibliography]
+\end{refsection}
+\begin{refsection}
+ \nocite{*}
+ \printbibliography[sorting=chronological, type=inproceedings, title={local peer-reviewed conferences/proceedings}, keyword={france}, heading=subbibliography]
+\end{refsection}
+\printbibsection{misc}{other publications}
+\printbibsection{report}{research reports}
+
+\end{document}

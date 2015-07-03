@@ -1,0 +1,59 @@
+[0] Config.pm:318> INFO - This is Biber 1.8
+[0] Config.pm:321> INFO - Logfile is 'cv.blg'
+[85] biber-darwin:275> INFO - === Thu Jul  2, 2015, 23:02:41
+[85] Biber.pm:333> INFO - Reading 'cv.bcf'
+[165] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[166] Biber.pm:607> INFO - Using all citekeys in bib section 1
+[166] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[166] Biber.pm:607> INFO - Using all citekeys in bib section 2
+[166] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[166] Biber.pm:607> INFO - Using all citekeys in bib section 3
+[166] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[166] Biber.pm:607> INFO - Using all citekeys in bib section 4
+[166] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[167] Biber.pm:607> INFO - Using all citekeys in bib section 5
+[167] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[190] Biber.pm:3053> INFO - Processing section 1
+[214] Biber.pm:3190> INFO - Looking for bibtex format file 'bibliography.bib' for section 1
+[218] bibtex.pm:937> INFO - Decoding LaTeX character macros into UTF-8
+[223] bibtex.pm:812> INFO - Found BibTeX data source 'bibliography.bib'
+[329] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[329] Biber.pm:2945> INFO - Sorting 'entry' list 'chronological' keys
+[329] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[373] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[373] Biber.pm:2945> INFO - Sorting 'entry' list 'ydnt' keys
+[373] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[445] Biber.pm:3053> INFO - Processing section 2
+[445] Biber.pm:3190> INFO - Looking for bibtex format file 'bibliography.bib' for section 2
+[503] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[504] Biber.pm:2945> INFO - Sorting 'entry' list 'chronological' keys
+[504] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[546] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[546] Biber.pm:2945> INFO - Sorting 'entry' list 'ydnt' keys
+[546] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[619] Biber.pm:3053> INFO - Processing section 3
+[619] Biber.pm:3190> INFO - Looking for bibtex format file 'bibliography.bib' for section 3
+[678] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[678] Biber.pm:2945> INFO - Sorting 'entry' list 'chronological' keys
+[679] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[721] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[721] Biber.pm:2945> INFO - Sorting 'entry' list 'ydnt' keys
+[721] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[793] Biber.pm:3053> INFO - Processing section 4
+[794] Biber.pm:3190> INFO - Looking for bibtex format file 'bibliography.bib' for section 4
+[852] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[852] Biber.pm:2945> INFO - Sorting 'entry' list 'chronological' keys
+[852] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[895] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[895] Biber.pm:2945> INFO - Sorting 'entry' list 'ydnt' keys
+[895] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[966] Biber.pm:3053> INFO - Processing section 5
+[966] Biber.pm:3190> INFO - Looking for bibtex format file 'bibliography.bib' for section 5
+[1025] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[1025] Biber.pm:2945> INFO - Sorting 'entry' list 'chronological' keys
+[1026] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[1068] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[1068] Biber.pm:2945> INFO - Sorting 'entry' list 'ydnt' keys
+[1068] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[1142] bbl.pm:482> INFO - Writing 'cv.bbl' with encoding 'UTF-8'
+[1171] bbl.pm:555> INFO - Output to cv.bbl
