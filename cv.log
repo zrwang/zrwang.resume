@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.5.25)  2 JUL 2015 23:03
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.5.25)  3 JUL 2015 16:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1244,33 +1244,12 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 Package biblatex Info: Reference section=1 on input line 128.
 Package biblatex Info: Setting label 'refsection:1' on input line 128.
 Package biblatex Info: Reference section=0 on input line 128.
-\blx@maxsegment@2=\count362
-\blx@sectionciteorder@2=\count363
-Package biblatex Info: Reference section=2 on input line 129.
-Package biblatex Info: Setting label 'refsection:2' on input line 129.
-Package biblatex Info: Reference section=0 on input line 132.
-\blx@maxsegment@3=\count364
-\blx@sectionciteorder@3=\count365
-Package biblatex Info: Reference section=3 on input line 133.
-Package biblatex Info: Setting label 'refsection:3' on input line 133.
  [2]
-Package biblatex Info: Reference section=0 on input line 136.
-\blx@maxsegment@4=\count366
-\blx@sectionciteorder@4=\count367
-Package biblatex Info: Reference section=4 on input line 137.
-Package biblatex Info: Setting label 'refsection:4' on input line 137.
-Package biblatex Info: Reference section=0 on input line 137.
-\blx@maxsegment@5=\count368
-\blx@sectionciteorder@5=\count369
-Package biblatex Info: Reference section=5 on input line 138.
-Package biblatex Info: Setting label 'refsection:5' on input line 138.
-Package biblatex Info: Reference section=0 on input line 138.
- [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 140.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 140.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 141.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 141.
  (./cv.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 140.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 140.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 141.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 141.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1280,12 +1259,12 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40307 strings out of 493734
- 766149 string characters out of 6146348
- 1140300 words of memory out of 5000000
- 43199 multiletter control sequences out of 15000+600000
+ 40134 strings out of 493734
+ 761112 string characters out of 6146348
+ 1120553 words of memory out of 5000000
+ 43026 multiletter control sequences out of 15000+600000
  4312 words of font info for 54 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  73i,9n,62p,10465b,964s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on cv.pdf (3 pages).
+Output written on cv.pdf (2 pages).
