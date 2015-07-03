@@ -1,11 +1,10 @@
 # Fdb version 3
-["biber cv"] 1435912854 "cv.bcf" "cv.bbl" "cv" 1435912858
-  "bibliography.bib" 1412910838 8199 2a2a7fb561493f3eb9307a3458f39917 ""
-  "cv.bcf" 1435912858 90981 3e87f30602bc6cd7d6c2c2fb4391d031 ""
+["biber cv"] 1435912927 "cv.bcf" "cv.bbl" "cv" 1435912931
+  "cv.bcf" 1435912931 90317 640199e6a864e9ab419c0ad74658ff82 ""
   (generated)
-  "cv.bbl"
   "cv.blg"
-["pdflatex"] 1435912856 "cv.tex" "cv.pdf" "cv" 1435912858
+  "cv.bbl"
+["pdflatex"] 1435912928 "cv.tex" "cv.pdf" "cv" 1435912931
   "/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1284331290 1458 43ab4710dc82f3edeabecd0d099626b2 ""
   "/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/catchfile.sty" 1335995445 8493 4e5537dfd443b37833e5bc8675bbe606 ""
   "/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty" 1335995445 7612 c47308d923ec19888707b0f1792b326a ""
@@ -143,10 +142,10 @@
   "/usr/local/texlive/2014/texmf-dist/tex/latex/xcolor/xcolor.sty" 1169481954 55224 a43bab84e0ac5e6efcaf9a98bde73a94 ""
   "/usr/local/texlive/2014/texmf-dist/tex/xelatex/xetex-def/xetex.def" 1399065204 17159 a477269947c644113bd414c39e6f0de3 ""
   "/usr/local/texlive/2014/texmf-dist/tex/xelatex/xunicode/xunicode.sty" 1315783907 205722 8027ed7ab2230086d647802c25f3ee42 ""
-  "cv.aux" 1435912858 1231 74eeb99e2881acbf640b1ec4e8790a84 ""
-  "cv.bbl" 1435912856 54060 0743f23bd07f2da38dffd0803a7e30cd "biber cv"
-  "cv.out" 1435912858 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "cv.tex" 1435912851 3821 b884a0ae8759f0f9091b26b98d359690 ""
+  "cv.aux" 1435912930 1064 5613920b33b168b791656ba5a0f9e78d ""
+  "cv.bbl" 1435912928 466 9b63bd41c34afae085b93d05707d5cc3 "biber cv"
+  "cv.out" 1435912930 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "cv.tex" 1435912924 3823 80504639a64a6cb85ea339d7308bc078 ""
   "friggeri-cv.cls" 1435849062 6805 a13f295f09156f25dbb7daa47d5a585d ""
   (generated)
   "cv.aux"
