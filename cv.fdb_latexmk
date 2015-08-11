@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber cv"] 1435944771 "cv.bcf" "cv.bbl" "cv" 1436011334
-  "bibliography.bib" 1435944768 2745 5e4936c0de222f67655bb739d6760063 ""
-  "cv.bcf" 1436011334 91645 01de390cf1f13916679b24d2b7f84c48 ""
+["biber cv"] 1439256335 "cv.bcf" "cv.bbl" "cv" 1439256813
+  "bibliography.bib" 1439256327 2829 51bdecffeb87710d0cdc1577d5abd7d6 ""
+  "cv.bcf" 1439256813 91645 01de390cf1f13916679b24d2b7f84c48 ""
   (generated)
-  "cv.bbl"
   "cv.blg"
-["pdflatex"] 1436011331 "cv.tex" "cv.pdf" "cv" 1436011334
+  "cv.bbl"
+["pdflatex"] 1439256810 "cv.tex" "cv.pdf" "cv" 1439256813
   "/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1284331290 1458 43ab4710dc82f3edeabecd0d099626b2 ""
   "/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/catchfile.sty" 1335995445 8493 4e5537dfd443b37833e5bc8675bbe606 ""
   "/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty" 1335995445 7612 c47308d923ec19888707b0f1792b326a ""
@@ -143,13 +143,13 @@
   "/usr/local/texlive/2014/texmf-dist/tex/latex/xcolor/xcolor.sty" 1169481954 55224 a43bab84e0ac5e6efcaf9a98bde73a94 ""
   "/usr/local/texlive/2014/texmf-dist/tex/xelatex/xetex-def/xetex.def" 1399065204 17159 a477269947c644113bd414c39e6f0de3 ""
   "/usr/local/texlive/2014/texmf-dist/tex/xelatex/xunicode/xunicode.sty" 1315783907 205722 8027ed7ab2230086d647802c25f3ee42 ""
-  "cv.aux" 1436011334 1423 69b79f9e34963dc4a28480a52648ca61 ""
-  "cv.bbl" 1435944773 73526 91557b5255e546ccb172fd41764e6fd0 "biber cv"
-  "cv.out" 1436011333 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "cv.tex" 1436011331 3441 6342e0a884511d11ceb13b30f5c451e4 ""
+  "cv.aux" 1439256813 1423 69b79f9e34963dc4a28480a52648ca61 ""
+  "cv.bbl" 1439256337 73626 78b29bf590f8e9524ff6fe99b7cbff6d "biber cv"
+  "cv.out" 1439256812 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "cv.tex" 1439256810 3502 874df7b2c8c3897690c54d3ae8f90225 ""
   "friggeri-cv.cls" 1435849062 6805 a13f295f09156f25dbb7daa47d5a585d ""
   (generated)
-  "cv.pdf"
-  "cv.log"
   "cv.out"
   "cv.aux"
+  "cv.log"
+  "cv.pdf"
