@@ -1,136 +1,256 @@
-%!TEX TS-program = xelatex
-\documentclass[]{friggeri-cv}
-\usepackage{biblatex}
-\addbibresource{bibliography.bib}
+% Jason R. Blevins - Curriculum Vitae
+%
+% Copyright (C) 2004-2015 Jason R. Blevins <jrblevin@sdf.org>
+% http://jblevins.org/
+%
+% You may use use this document as a template to create your own CV
+% and you may redistribute the source code freely.  No attribution is
+% required in any resulting documents.  I do ask that you please leave
+% this notice and the above URL in the source code if you choose to
+% redistribute this file.
+
+\documentclass[10pt,letterpaper]{article}
+
+\usepackage{hyperref}
+\usepackage{geometry}
+\usepackage{enumitem}
+
+% Fonts
+\usepackage[T1]{fontenc}
+\usepackage[urw-garamond]{mathdesign}
+
+% New environment for itemize with multicolumn
+\makeatletter
+\newenvironment{dateitemize}{%
+  \ifnum \@itemdepth >\thr@@\@toodeep\else
+    \advance\@itemdepth\@ne
+    \edef\@itemitem{labelitem\romannumeral\the\@itemdepth}%
+    \expandafter
+    \list
+      \csname\@itemitem\endcsname
+      {%
+      \advance\rightmargin3cm
+      \def\makelabel##1{\hss\llap{\textbullet}\rlap{\hbox to \dimexpr\linewidth+\rightmargin+\itemsep\relax{\hss##1}}}}%
+  \fi}
+  \enditemize
+\makeatother
+
+
+% Set your name here
+\def\name{Zerui Wang}
+
+% The following metadata will show up in the PDF properties
+\hypersetup{
+  colorlinks = true,
+  urlcolor = black,
+  pdfauthor = {\name},
+  pdfkeywords = {Ph.D. student, The Chinese University of Hong Kong, robotic surgery, soft tissue manipulation,
+    dissection, suturing},
+  pdftitle = {\name: Curriculum Vitae},
+  pdfsubject = {Curriculum Vitae},
+  pdfpagemode = UseNone
+}
+
+\geometry{
+  body={6.5in, 9.0in},
+  left=1.0in,
+  top=1.0in
+}
+
+% Customize page headers
+\pagestyle{myheadings}
+\markright{\name}
+\thispagestyle{empty}
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\Large}
+\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+% Other possible font commands include:
+% \ttfamily for teletype,
+% \sffamily for sans serif,
+% \bfseries for bold,
+% \scshape for small caps,
+% \normalsize, \large, \Large, \LARGE sizes.
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+% Make lists without bullets and compact spacing
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+    \setlength{\itemsep}{0.25em}
+    \setlength{\parskip}{0pt}
+    \setlength{\parsep}{0.25em}
+  }
+}{
+  \end{list}
+}
+\setlist[enumerate]{itemsep=0.25em}
 
 \begin{document}
-\header{Zerui}{WANG}
-       {a Ph.D. candidate who is obsessed by robotics}
 
+% Place name at left
+{\huge \name}
 
-% In the aside, each new line forces a line break
-\begin{aside}
-  \section{about}
-    Room 112
-    ERB
-    CUHK
-    Shatin, N.T.
-    Hong Kong
-    ~
-    \href{mailto:zerui.j.wang@gmail.com}{zerui.j.wang@gmail.com}
-    \href{http://www.wangzerui.com}{www.wangzerui.com}
-    \href{https://github.com/zrwang}{gh://zrwang}
-    \href{https://www.linkedin.com/in/zrwang}{ln://zrwang}
-    \href{https://www.facebook.com/zrwang.cuhk}{fb://zrwang}
-    \href{https://plus.google.com/u/0/115306810481973645007/posts}{g+://zrwang}
-    \href{https://twitter.com/wangzerui}{tw://zrwang}
-  \section{languages}
-    Chinese
-    English
-  \section{programming}
-    {\color{red} $\varheartsuit$} C++/C
-    Python
-\end{aside}
+% Alternatively, print name centered and bold:
+%\centerline{\huge \bf \name}
 
-\section{education}
-\begin{entrylist}
-  \entry
-    {since 2013}
-    {Ph.D. {\normalfont in Mechanical \& Automation Engineering}}
-    {The Chinese Univ. of Hong Kong}
-    {Cumulative GPA: \emph{3.917/4} \\
-     Research interests: \\
-     Safety mechanism design in robotic surgery \\
-     Visual servoing in robotic surgery \\
-     (soft tissue manipulation, dissection and suturing)}
-  \entry
-    {2012}
-    {Exchange {\normalfont in Europe}}
-    {TU Delft, VUB, U-PSUD, ECP, ISAE}
-    {Most selective elite delegation among students (top 0.75\%)}
-  \entry
-    {2009–2013}
-    {BEng. {\normalfont in Quality and Reliability Engineering}}
-    {Beihang University}
-    {Overall GPA: \emph{3.84/4 (90.04/100)} \\
-     Rank \textbf{1st} in School of Reliability \& System Engineering}
-  \entry
-    {2006–2009}
-    {Senior high school student}
-    {Urumqi No.1 Senior High School}
-    {Top 0.18\%  in the National College Entrance Examination \\
-    The 1st Prize in National Olympiad in Informatics \\
-    The 2nd Prize in Chinese Physics Olympiad \\
-    Nominated as Excellent Student for \textbf{three} consecutive years}
-\end{entrylist}
+\bigskip
 
-\section{honors \& awards}
+\begin{minipage}[t]{0.595\textwidth}
+  Department of Mechanical and Automation Engineering \\
+  The Chinese University of Hong Kong \\
+  112 William M.W. Mong Eng. Bldg. \\
+  The Chinese University of Hong Kong \\
+  Shatin, N.T., Hong Kong
+\end{minipage}
+\begin{minipage}[t]{0.395\textwidth}
+  Phone: (852) 3943-8047 \\
+  Office: 112 MMW Eng. Bldg. \\
+  Email: \href{mailto:zerui.j.wang@gmail.com}{zerui.j.wang@gmail.com} \\
+  Homepage: \href{http://www.wangzerui.com/}{www.wangzerui.com}
+\end{minipage}
 
-\begin{entrylist}
-  \entry
-    {Aug. 2013}
-    {Awardee of Hong Kong PhD Fellowship}
-    {}
-    {}
-  \entry
-    {Nov. 2012}
-    {Champion of Innovative Underwater Robot Design \\
-    China Robot Contest \& RoboCup Open}
-    {}
-    {}
-  \entry
-    {Jul. 2012}
-    {The 2nd-Prize in National University Mechanical Innovation Competition}
-    {}
-    {(10\%)}
-  \entry
-    {Dec. 2010}
-    {The 2nd-Prize in National Undergraduate Physics Competition}
-    {}
-    {(7.5\%)}
-  \entry
-    {Nov. 2010}
-    {National Scholarship for University Students}
-    {}
-    {(2.6\%)}
-  \entry
-    {Nov. 2011}
-    {Excellent Students Awards of Beijing}
-    {}
-    {(1.1\%)}
-  \entry
-    {Nov. 2011}
-    {Elite Student of Beihang University}
-    {}
-    {(3\%)}
-  \entry
-    {Mar. 2012}
-    {Outstanding Student Award, \textit{Yang Weimin} Special Scholarship}
-    {}
-    {(0.8\%)}
-  \entry
-    {Dec. 2011}
-    {The 2nd-Prize Scholarship of Academic Contest}
-    {}
-    {(3\%)}
-  \entry
-    {2010-2012}
-    {The 1st-Prize Scholarship of Science and Engineering Contest}
-    {}
-    {(7\%)}
-  \entry
-    {2010-2012}
-    {The 1st-Prize Scholarship of Academic Performance}
-    {}
-    {(3\%)}
-\end{entrylist}
+\section*{Education}
 
-\section{publications}
+\begin{itemize}
+  \item Ph.D. Candidate, Mechanical \& Automation Engineering, The Chinese Univ. of Hong Kong, since 2013
+    \begin{itemize}
+    \item \emph{Cumulative GPA:} 3.917/4
+    \item \emph{Research interests:}
+      \begin{itemize}
+      \item Safety mechanism design in robotic surgery
+      \item Visual servoing in robotic surgery (soft tissue manipulation, dissection and suturing)
+      \end{itemize}
+    \end{itemize}
+  \item B.Eng. Degree, Quality and Reliability Engineering, Beihang University, 2009-2013
+    \begin{itemize}
+    \item \emph{Overall GPA:} 3.84/4 (90.04/100), rank \textbf{1st} in School of Reliability \& System Engineering
+    \end{itemize}
+  \item Senior high school student, Urumqi No.1 Senior High School
+    \begin{itemize}
+    \item Top 0.18\% in the National College Entrance Examination
+    \item The 1st Prize in National Olympiad in Informatics
+    \item The 2nd Prize in Chinese Physics Olympiad
+    \end{itemize}
+\end{itemize}
 
-\printbibsection{article}{Journal}
-\begin{refsection}
- \nocite{*}
- \printbibliography[sorting=chronological, type=inproceedings, title={Conference}, heading=subbibliography]
-\end{refsection}
+\section*{Honors \& Awards}
+
+\begin{dateitemize}
+  \item[Aug. 2013] Awardee of Hong Kong PhD Fellowship
+  \item[Nov. 2012] Champion of Innovative Underwater Robot Design RoboCup Open (China)
+  \item[Jul. 2012] The 2nd-Prize in National University Mechanical Innovation Competition (10\%)
+  \item[Dec. 2010] The 2nd-Prize in National Undergraduate Physics Competition (7.5\%)
+  \item[Nov. 2010] National Scholarship for University Students (2.6\%)
+  \item[Nov. 2011] Excellent Students Awards of Beijing (1.1\%)
+  \item[Nov. 2011] Elite Student of Beihang University (3\%)
+  \item[Mar. 2012] Outstanding Student Award, \textit{Yang Weimin} Special Scholarship (0.8\%)
+  \item[Dec. 2011] The 2nd-Prize Scholarship of Academic Contest (3\%)
+  \item[2010-2012] The 1st-Prize Scholarship of Science and Engineering Contest (7\%)
+  \item[2010-2012] The 1st-Prize Scholarship of Academic Performance (3\%)
+\end{dateitemize}
+
+\section*{Projects}
+
+\subsection*{Undergraduate}
+
+\begin{itemize}
+  \item Bio-inspired Autonomous Robotic Fish, Intelligence Control Laboratory, Peking University, RA, Advisor: \textit{Prof. Guangming Xie} (Jun. 2012 -- Jun. 2013)
+  \begin{itemize}
+    \item Mechanical design of the new version biomimetic fish robot with SolidWorks;
+    \item Design the pressure sensor unit;
+    \item Complete online Particle Swarm Optimization (PSO) and the pectoral fin optimization experiment;
+    \item Analyze the motion and build the simplified kinetics model of the bio-inspired autonomous robotic fish.
+  \end{itemize}
+
+  \item Multifunctional Wall-Climbing Platform, Innovation Internship Center, Beihang University, RA, Key team member, Advisor: \textit{Prof. Guiping Jing} (Sep. 2011 -- Jul.2012)
+  \begin{itemize}
+    \item Participate in function design, employ innovative approach of Detachable Accessory to make the platform able to replace human in special and dangerous tasks by assembling it with different specialized devices;
+    \item Develop detailed design based on series of feasibility verification experiments such as testing the performance of different distributions of the vanes in centrifuge and testing the mechanical strength of different structures of the vacuum chamber frame;
+    \item Determine the size, weight and size requirements of each part based on WBS method, establish the platform's digital mock-up with SolidWorks, finish the progress of manufacturing, processing and assembling all our own.
+  \end{itemize}
+
+  \item Interdisciplinary Modeling Program, School of Mathematics \& System Engineering, Beihang University, RA, Team leader, Advisor: \textit{Prof. Xiaobing Ma} (Nov. 2009 -- Mar. 2012)
+  \begin{itemize}
+    \item \textbf{\textit{Optimization Scheme of Classroom Light Placement Project}}, build physical model of the relationship between placement parameters and feelings of human eyes and identify optimal parameters' value using numeric method (Matlab \& C++);
+    \item \textit{\textbf{Arrangement of Mining Trucks in Quarry Project}}, use both Genetic Algorithm and improved Greedy Algorithm to solve the problem of Chinese Postman Problem and compare the performances of the two algorithms;
+    \item \textbf{\textit{Estimation of Epidemic SARS Spread Project}}, build the mathematical model by a series of differential equations according to the classical SIR model, estimate the parameters of the model by maximum likelihood estimate method and carry out sensitivity analysis of the model.
+  \end{itemize}
+\end{itemize}
+
+\subsection*{Postgraduate}
+
+\begin{itemize}
+  \item Compliant Safe Robot Joint, Medical Robotics Laboratory, The Chinese University of Hong Kong, Ph.D. Candidate, Supervisor: \textit{Prof. Yunhui Liu} (Sep. 2013 -- May. 2015)
+  \begin{itemize}
+    \item Mechanical design of the compliant safe robot joint;
+    \item Structure optimization by analyzing how the key parameters affect the joint's performance (torque threshold, stiffness under compliant state, etc.);
+    \item Design the torque regulation controller and the trajectory tracking controller;
+    \item Conduct the collision experiments with human to validate the performance of the joint.
+  \end{itemize}
+
+  \item Endoscope Manipulator for Sinus Surgery, Medical Robotics Laboratory, The Chinese University of Hong Kong, Ph.D. Candidate, Supervisor: \textit{Prof. Yunhui Liu} (since Oct. 2013)
+  \begin{itemize}
+    \item Assist with the mechanical structure optimization of the endoscope manipulator (2nd \& 3rd version);
+    \item Build the control system (hardware \& software) for the endoscope manipulator (3rd version).
+  \end{itemize}
+
+  \item Uterus Manipulator for Hysterectomy, Medical Robotics Laboratory, The Chinese University of Hong Kong, Ph.D. Candidate, Supervisor: \textit{Prof. Yunhui Liu} (since Aug. 2014)
+  \begin{itemize}
+    \item Assist with the mechanical structure optimization of the endoscope manipulator (3rd version);
+    \item Assist with system assembly (3rd version).
+  \end{itemize}
+
+  \item Laparoscopic Instruments Pose Control for Minimally Invasive Robotic Surgery, The Chinese University of Hong Kong, Ph.D. Candidate, Supervisor: \textit{Prof. Yunhui Liu} (since Jan. 2015)
+  \begin{itemize}
+    \item Calibration of camera extrinsic parameters using laparoscopic instrument's projection;
+    \item Image based trajectory tracking control of 4-DoF laparoscopic instruments.
+  \end{itemize}
+\end{itemize}
+
+\section*{Research}
+
+\subsection*{Journal Articles}
+\begin{enumerate}
+\item \textbf{Z. Wang}, H. M. Yip, D. Navarro-Alarcon, P. Li and Y.-H. Liu (2015).
+  Design of a Novel Compliant Safe Robot Joint with Multiple Working States.
+  \textit{{IEEE/ASME} Trans. Mechatronics, revised and resubmitted}.
+\item H. M. Yip, \textbf{Z. Wang}, D. Navarro-Alarcon, P. Li, Y.-H. Liu, T. H. Cheung, and Y. Fu (2015).
+  Development of an Assistive Surgical Robot for Laparoscopic Hysterectomy.
+  \textit{{IEEE/ASME} Trans. Mechatronics, under review}.
+\item D. Navarro-Alarcon, H. M. Yip, \textbf{Z. Wang}, Y.-H. Liu and P. Li (2015).
+  Automatic 3D Manipulation of Soft Objects by RCM Robotic Instruments with Adaptive Deformation Model.
+  \textit{{IEEE} Trans. Robot., under review}.
+\end{enumerate}
+
+\subsection*{Conference Proceedings}
+\begin{enumerate}
+\item \textbf{Z. Wang}, P. Li, D. Navarro-Alarcon, H. M. Yip, Y.-H. Liu, W. Lin and L. Li (2015).
+  Design and Control of a Novel Multi-state Compliant Safe Joint for Robotic Surgery.
+  \textit{{IEEE} Int. Conf. Robotics and Automation} 1023-1028.
+\item H. M. Yip, \textbf{Z. Wang}, D. Navarro-Alarcon, P. Li and Y.-H. Liu (2015).
+  A New Robotic Uterine Positioner for Laparoscopic Hysterectomy with Passive Safety Mechanisms: Design and Experiments.
+  \textit{{IEEE/RSJ} Int. Conf. Intelligent Robots and Systems} Accepted.
+\item D. Navarro-Alarcon, H. M. Yip, \textbf{Z. Wang}, Y.-H. Liu, W. Lin and P. Li (2015).
+  Gradient Descent Adaptive Methods to Automatically Position 3-DOF RCM Mechanisms with a Monocular Camera.
+  \textit{{IEEE/RSJ} Int. Conf. Intelligent Robots and Systems} Accepted.
+\item W. Lin, D. Navarro-Alarcon, P. Li, \textbf{Z. Wang}, H. M. Yip and Y.-H. Liu (2015).
+  A New Robotic Uterine Positioner for Laparoscopic Hysterectomy with Passive Safety Mechanisms: Design and Experiments.
+  \textit{{IEEE/RSJ} Int. Conf. Intelligent Robots and Systems} Accepted.
+\item D. Navarro-Alarcon, \textbf{Z. Wang}, H. M. Yip, Y. Liu, P. Li and W. Lin (2014).
+  A Method to Regulate the Torque of Flexible-joint Manipulators with Velocity Control Inputs.
+  \textit{{IEEE} Int. Conf. Robotics and Biomimetics} 2437-2442.
+\item H. M. Yip, P. Li, D. Navarro-Alarcon, \textbf{Z. Wang} and Y.-H. Liu (2014).
+  A new circular-guided remote center of motion mechanism for assistive surgical robots.
+  \textit{{IEEE} Int. Conf. Robotics and Biomimetics} 217-222.
+\end{enumerate}
+
+% Footer
+\bigskip
+{\small Last updated: \today}
 
 \end{document}
