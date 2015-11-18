@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  18 NOV 2015 13:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  18 NOV 2015 13:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -455,7 +455,7 @@ Here is how much of TeX's memory you used:
  10614 multiletter control sequences out of 15000+600000
  69599 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,5n,64p,334b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,5n,64p,334b,455s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/lo
 cal/texlive/2015/texmf-dist/fonts/type1/public/mathdesign/mdugm/md-gmr7y.pfb></
 usr/local/texlive/2015/texmf-dist/fonts/type1/public/mathdesign/mdugm/md-gmr8t.
@@ -465,7 +465,7 @@ gmri8t.pfb></usr/local/texlive/texmf-local/fonts/type1/urw/garamond/ugmm8a.pfb>
 l/texlive/texmf-local/fonts/type1/urw/garamond/ugmr8a.pfb></usr/local/texlive/t
 exmf-local/fonts/type1/urw/garamond/ugmr8a.pfb></usr/local/texlive/texmf-local/
 fonts/type1/urw/garamond/ugmri8a.pfb>
-Output written on cv.pdf (4 pages, 107971 bytes).
+Output written on cv.pdf (4 pages, 107768 bytes).
 PDF statistics:
  85 PDF objects out of 1000 (max. 8388607)
  70 compressed objects within 1 object stream
