@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  18 NOV 2015 13:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  18 NOV 2015 15:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -438,24 +438,24 @@ Things are pretty mixed up, but I think the worst is over.
 [2
 design size mismatch in local font md-gmro8t in virtual font mdugmro8t.vf ignor
 ed.] [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 274.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 280.
  [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 274.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 280.
  (./cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 274.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 274.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 280.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 280.
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 274.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 280.
  ) 
 Here is how much of TeX's memory you used:
  7224 strings out of 493089
  105865 string characters out of 6134842
- 189642 words of memory out of 5000000
+ 188642 words of memory out of 5000000
  10614 multiletter control sequences out of 15000+600000
  69599 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,5n,64p,334b,455s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,5n,64p,334b,452s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}</usr/lo
 cal/texlive/2015/texmf-dist/fonts/type1/public/mathdesign/mdugm/md-gmr7y.pfb></
 usr/local/texlive/2015/texmf-dist/fonts/type1/public/mathdesign/mdugm/md-gmr8t.
@@ -465,7 +465,7 @@ gmri8t.pfb></usr/local/texlive/texmf-local/fonts/type1/urw/garamond/ugmm8a.pfb>
 l/texlive/texmf-local/fonts/type1/urw/garamond/ugmr8a.pfb></usr/local/texlive/t
 exmf-local/fonts/type1/urw/garamond/ugmr8a.pfb></usr/local/texlive/texmf-local/
 fonts/type1/urw/garamond/ugmri8a.pfb>
-Output written on cv.pdf (4 pages, 107768 bytes).
+Output written on cv.pdf (4 pages, 107802 bytes).
 PDF statistics:
  85 PDF objects out of 1000 (max. 8388607)
  70 compressed objects within 1 object stream
