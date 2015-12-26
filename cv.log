@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  9 DEC 2015 20:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  26 DEC 2015 12:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -393,60 +393,60 @@ LaTeX Info: Redefining \nameref on input line 93.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for OMS+mdugm on input line 14
-9.
+LaTeX Font Info:    Try loading font information for OMS+mdugm on input line 15
+6.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/mathdesign/mdugm/omsmdugm.fd
 File: omsmdugm.fd 2013/08/29 Fontinst v1.933 font definitions for OMS/mdugm.
 )
+[1
 
-./cv.tex:162: LaTeX Error: \begin{dateitemize} on input line 148 ended by \end{
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+./cv.tex:169: LaTeX Error: \begin{dateitemize} on input line 155 ended by \end{
 list}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.162 \end{dateitemize}
+l.169 \end{dateitemize}
                        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./cv.tex:162: LaTeX Error: \begin{document} ended by \end{dateitemize}.
+./cv.tex:169: LaTeX Error: \begin{document} ended by \end{dateitemize}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.162 \end{dateitemize}
+l.169 \end{dateitemize}
                        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-./cv.tex:162: Extra \endgroup.
+./cv.tex:169: Extra \endgroup.
 <recently read> \endgroup 
                           
-l.162 \end{dateitemize}
+l.169 \end{dateitemize}
                        
 Things are pretty mixed up, but I think the worst is over.
 
-[1
-
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 [2
 design size mismatch in local font md-gmro8t in virtual font mdugmro8t.vf ignor
 ed.] [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 280.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 295.
  [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 280.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 295.
  (./cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 280.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 280.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 295.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 295.
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 280.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 295.
  ) 
 Here is how much of TeX's memory you used:
  7224 strings out of 493089
@@ -465,7 +465,7 @@ gmri8t.pfb></usr/local/texlive/texmf-local/fonts/type1/urw/garamond/ugmm8a.pfb>
 l/texlive/texmf-local/fonts/type1/urw/garamond/ugmr8a.pfb></usr/local/texlive/t
 exmf-local/fonts/type1/urw/garamond/ugmr8a.pfb></usr/local/texlive/texmf-local/
 fonts/type1/urw/garamond/ugmri8a.pfb>
-Output written on cv.pdf (4 pages, 107834 bytes).
+Output written on cv.pdf (4 pages, 109031 bytes).
 PDF statistics:
  85 PDF objects out of 1000 (max. 8388607)
  70 compressed objects within 1 object stream
