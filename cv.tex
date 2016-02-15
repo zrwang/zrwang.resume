@@ -21,20 +21,18 @@
 
 % New environment for itemize with multicolumn
 \makeatletter
-\newenvironment{dateitemize}{%
-  \ifnum \@itemdepth >\thr@@\@toodeep\else
-    \advance\@itemdepth\@ne
-    \edef\@itemitem{labelitem\romannumeral\the\@itemdepth}%
-    \expandafter
-    \list
-      \csname\@itemitem\endcsname
-      {%
-      \advance\rightmargin3cm
-      \def\makelabel##1{\hss\llap{\textbullet}\rlap{\hbox to \dimexpr\linewidth+\rightmargin+\itemsep\relax{\hss##1}}}}%
+\newenvironment{dateitemize}%
+{\ifnum \@itemdepth >\thr@@\@toodeep\else
+  \advance\@itemdepth\@ne
+  \edef\@itemitem{labelitem\romannumeral\the\@itemdepth}%
+  \expandafter
+  \list
+  \csname\@itemitem\endcsname
+  {\advance\rightmargin3cm
+    \def\makelabel##1{\hss\llap{\textbullet}\rlap{\hbox to \dimexpr\linewidth+\rightmargin+\itemsep\relax{\hss##1}}}}%
   \fi}
-  \enditemize
+{\endlist}%
 \makeatother
-
 
 % Set your name here
 \def\name{Zerui Wang}
@@ -166,6 +164,7 @@
   \item[Dec. 2011] The 2nd-Prize Scholarship of Academic Contest (3\%)
   \item[2010-2012] The 1st-Prize Scholarship of Science and Engineering Contest (7\%)
   \item[2010-2012] The 1st-Prize Scholarship of Academic Performance (3\%)
+
 \end{dateitemize}
 
 %\newpage
